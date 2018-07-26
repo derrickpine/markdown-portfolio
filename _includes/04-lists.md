@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+My Favorite Books
+- The Richest Man in Babylon
+- The Warrior Ethos
